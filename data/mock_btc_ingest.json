@@ -1,0 +1,149 @@
+{
+  "market_information": {
+    "data_retrieval_timestamp": "2025-04-04T00:10:43.188388Z",
+    "coin_name": "Bitcoin",
+    "ticker": "BTC",
+    "price": 3154.61
+  },
+  "latest_news": [
+    {
+      "headline": "Bitcoin makes headlines with tech upgrades",
+      "source": "MockNews",
+      "url": "https://mocknews.com/btc-update",
+      "timestamp": "2025-04-04T00:10:43.188388Z"
+    }
+  ],
+  "upcoming_catalysts": [
+    {
+      "event": "Bitcoin conference",
+      "date": "2025-04-14",
+      "description": "Bitcoin developers to reveal roadmap updates."
+    }
+  ],
+  "divergence_data": {
+    "recent_signals": {
+      "3m": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      },
+      "15m": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      },
+      "30m": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      },
+      "1h": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      },
+      "4h": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      },
+      "12h": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      },
+      "1d": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      },
+      "1w": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.188388Z"
+      }
+    },
+    "historical_1d_bullish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.188388Z",
+        "description": "Mock daily bullish divergence"
+      }
+    ],
+    "historical_1d_bearish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.188388Z",
+        "description": "Mock daily bearish divergence"
+      }
+    ],
+    "historical_1w_bullish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.188388Z",
+        "description": "Mock weekly bullish divergence"
+      }
+    ],
+    "historical_1w_bearish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.188388Z",
+        "description": "Mock weekly bearish divergence"
+      }
+    ]
+  },
+  "momentum_data": {
+    "3m": {
+      "trend": "uptrend",
+      "percent_r": -98.34,
+      "rsi": 59.37,
+      "td_count": -2
+    },
+    "15m": {
+      "trend": "uptrend",
+      "percent_r": -43.56,
+      "rsi": 44.47,
+      "td_count": -7
+    },
+    "30m": {
+      "trend": "downtrend",
+      "percent_r": -10.21,
+      "rsi": 40.35,
+      "td_count": 9
+    },
+    "1h": {
+      "trend": "downtrend",
+      "percent_r": -56.77,
+      "rsi": 76.15,
+      "td_count": 6
+    },
+    "4h": {
+      "trend": "sideways",
+      "percent_r": -5.84,
+      "rsi": 50.58,
+      "td_count": -7
+    },
+    "12h": {
+      "trend": "downtrend",
+      "percent_r": -85.17,
+      "rsi": 63.71,
+      "td_count": 2
+    },
+    "1d": {
+      "trend": "uptrend",
+      "percent_r": -18.05,
+      "rsi": 38.38,
+      "td_count": 7
+    },
+    "1w": {
+      "trend": "downtrend",
+      "percent_r": -26.68,
+      "rsi": 50.03,
+      "td_count": 5
+    }
+  },
+  "jolly_technical_analysis": {
+    "analysis_1": {
+      "text": "Bitcoin showing strength on weekly chart.",
+      "signal_quality": 85
+    },
+    "analysis_2": {
+      "text": "Momentum building for Bitcoin.",
+      "signal_quality": 72
+    },
+    "analysis_3": {
+      "text": "Bitcoin holding key support zone.",
+      "signal_quality": 66
+    },
+    "short_term_bias": 73,
+    "long_term_bias": 47
+  }
+}

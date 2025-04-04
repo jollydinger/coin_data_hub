@@ -1,0 +1,149 @@
+{
+  "market_information": {
+    "data_retrieval_timestamp": "2025-04-04T00:10:43.790323Z",
+    "coin_name": "Ethereum",
+    "ticker": "ETH",
+    "price": 2878.28
+  },
+  "latest_news": [
+    {
+      "headline": "Ethereum makes headlines with tech upgrades",
+      "source": "MockNews",
+      "url": "https://mocknews.com/eth-update",
+      "timestamp": "2025-04-04T00:10:43.790323Z"
+    }
+  ],
+  "upcoming_catalysts": [
+    {
+      "event": "Ethereum conference",
+      "date": "2025-04-14",
+      "description": "Ethereum developers to reveal roadmap updates."
+    }
+  ],
+  "divergence_data": {
+    "recent_signals": {
+      "3m": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      },
+      "15m": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      },
+      "30m": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      },
+      "1h": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      },
+      "4h": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      },
+      "12h": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      },
+      "1d": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      },
+      "1w": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.790323Z"
+      }
+    },
+    "historical_1d_bullish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.790323Z",
+        "description": "Mock daily bullish divergence"
+      }
+    ],
+    "historical_1d_bearish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.790323Z",
+        "description": "Mock daily bearish divergence"
+      }
+    ],
+    "historical_1w_bullish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.790323Z",
+        "description": "Mock weekly bullish divergence"
+      }
+    ],
+    "historical_1w_bearish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.790323Z",
+        "description": "Mock weekly bearish divergence"
+      }
+    ]
+  },
+  "momentum_data": {
+    "3m": {
+      "trend": "sideways",
+      "percent_r": -11.9,
+      "rsi": 61.85,
+      "td_count": -5
+    },
+    "15m": {
+      "trend": "sideways",
+      "percent_r": -66.26,
+      "rsi": 36.5,
+      "td_count": -4
+    },
+    "30m": {
+      "trend": "sideways",
+      "percent_r": -65.48,
+      "rsi": 39.35,
+      "td_count": -5
+    },
+    "1h": {
+      "trend": "downtrend",
+      "percent_r": -38.75,
+      "rsi": 48.46,
+      "td_count": 8
+    },
+    "4h": {
+      "trend": "sideways",
+      "percent_r": -97.64,
+      "rsi": 38.88,
+      "td_count": -5
+    },
+    "12h": {
+      "trend": "sideways",
+      "percent_r": -91.83,
+      "rsi": 63.59,
+      "td_count": 0
+    },
+    "1d": {
+      "trend": "sideways",
+      "percent_r": -47.34,
+      "rsi": 56.96,
+      "td_count": -2
+    },
+    "1w": {
+      "trend": "downtrend",
+      "percent_r": -75.57,
+      "rsi": 45.07,
+      "td_count": 3
+    }
+  },
+  "jolly_technical_analysis": {
+    "analysis_1": {
+      "text": "Ethereum showing strength on weekly chart.",
+      "signal_quality": 85
+    },
+    "analysis_2": {
+      "text": "Momentum building for Ethereum.",
+      "signal_quality": 72
+    },
+    "analysis_3": {
+      "text": "Ethereum holding key support zone.",
+      "signal_quality": 66
+    },
+    "short_term_bias": 85,
+    "long_term_bias": 45
+  }
+}

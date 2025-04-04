@@ -1,0 +1,23 @@
+{
+  "market_information": {
+    "data_retrieval_timestamp": "2025-04-03T12:00:00Z",
+    "coin_name": "Bitcoin",
+    "ticker": "BTC",
+    "price": 68000
+  },
+  "latest_news": [
+    {
+      "headline": "Bitcoin hits new yearly high",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/bitcoin-high",
+      "timestamp": "2025-04-03T10:00:00Z"
+    }
+  ],
+  "upcoming_catalysts": [
+    {
+      "event": "Bitcoin Halving",
+      "date": "2025-04-15",
+      "description": "Next Bitcoin halving event expected to reduce supply rate."
+    }
+  ]
+}

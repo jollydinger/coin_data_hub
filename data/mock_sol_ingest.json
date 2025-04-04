@@ -1,0 +1,149 @@
+{
+  "market_information": {
+    "data_retrieval_timestamp": "2025-04-04T00:10:43.967499Z",
+    "coin_name": "Solana",
+    "ticker": "SOL",
+    "price": 3590.87
+  },
+  "latest_news": [
+    {
+      "headline": "Solana makes headlines with tech upgrades",
+      "source": "MockNews",
+      "url": "https://mocknews.com/sol-update",
+      "timestamp": "2025-04-04T00:10:43.967499Z"
+    }
+  ],
+  "upcoming_catalysts": [
+    {
+      "event": "Solana conference",
+      "date": "2025-04-14",
+      "description": "Solana developers to reveal roadmap updates."
+    }
+  ],
+  "divergence_data": {
+    "recent_signals": {
+      "3m": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      },
+      "15m": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      },
+      "30m": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      },
+      "1h": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      },
+      "4h": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      },
+      "12h": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      },
+      "1d": {
+        "label": "Bullish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      },
+      "1w": {
+        "label": "Bearish",
+        "timestamp": "2025-04-04T00:10:43.967499Z"
+      }
+    },
+    "historical_1d_bullish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.967499Z",
+        "description": "Mock daily bullish divergence"
+      }
+    ],
+    "historical_1d_bearish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.967499Z",
+        "description": "Mock daily bearish divergence"
+      }
+    ],
+    "historical_1w_bullish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.967499Z",
+        "description": "Mock weekly bullish divergence"
+      }
+    ],
+    "historical_1w_bearish": [
+      {
+        "timestamp": "2025-04-04T00:10:43.967499Z",
+        "description": "Mock weekly bearish divergence"
+      }
+    ]
+  },
+  "momentum_data": {
+    "3m": {
+      "trend": "sideways",
+      "percent_r": -28.12,
+      "rsi": 48.39,
+      "td_count": 5
+    },
+    "15m": {
+      "trend": "sideways",
+      "percent_r": -51.57,
+      "rsi": 61.19,
+      "td_count": -2
+    },
+    "30m": {
+      "trend": "uptrend",
+      "percent_r": -84.27,
+      "rsi": 47.33,
+      "td_count": 6
+    },
+    "1h": {
+      "trend": "downtrend",
+      "percent_r": -69.14,
+      "rsi": 44.93,
+      "td_count": 3
+    },
+    "4h": {
+      "trend": "uptrend",
+      "percent_r": -74.61,
+      "rsi": 21.31,
+      "td_count": -2
+    },
+    "12h": {
+      "trend": "sideways",
+      "percent_r": -74.73,
+      "rsi": 64.57,
+      "td_count": 4
+    },
+    "1d": {
+      "trend": "sideways",
+      "percent_r": -49.01,
+      "rsi": 23.57,
+      "td_count": -4
+    },
+    "1w": {
+      "trend": "uptrend",
+      "percent_r": -83.63,
+      "rsi": 54.36,
+      "td_count": -8
+    }
+  },
+  "jolly_technical_analysis": {
+    "analysis_1": {
+      "text": "Solana showing strength on weekly chart.",
+      "signal_quality": 85
+    },
+    "analysis_2": {
+      "text": "Momentum building for Solana.",
+      "signal_quality": 72
+    },
+    "analysis_3": {
+      "text": "Solana holding key support zone.",
+      "signal_quality": 66
+    },
+    "short_term_bias": 68,
+    "long_term_bias": 74
+  }
+}
